@@ -1,0 +1,18 @@
+html, body {
+	text-align: center;
+	background-image: url('');
+}
+
+h1, img, h2, h3 {
+	color: #FFFFFF;
+	font-family:"avantgarde";
+}
+
+.left {
+	text-align: left;
+}
+p {
+	color: #FFFFFF;
+	font-family: "avantgarde";
+	font-size: 20px;
+}
